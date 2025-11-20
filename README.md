@@ -1,6 +1,5 @@
 ![Status](https://img.shields.io/badge/Projeto-IA%20Multiagente-blueviolet?style=for-the-badge&logo=python)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
 
 # Sistema Multiagente para Gerenciamento de Estoque
 
